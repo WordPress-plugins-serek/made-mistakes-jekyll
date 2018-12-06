@@ -9,8 +9,8 @@ teaser			: ""
 locale			: "en_US"
 words_per_minute        : 200
 
-repository              : "psirek/Ox3-test"
-url                     : "https://odd-one-out.serek.eu"
+repository              : "psirek/odd-one-out-blog"
+url                     : "https://odd-one-out-serek-eu.netlify.com"
 baseurl                 : "" # This breaks a few links since {{ site.baseurl }} is not prefixed. Using custom domain (CNAME file in root) with GitHub Pages (gh-pages) and Cloudflare (CNAME record) does work though
 
 social:
@@ -84,6 +84,7 @@ keep_files:
   - .git
 include:
   - _pages
+  - _headers
   - _redirects
 exclude:
   - .asset-cache
@@ -225,8 +226,3 @@ algolia:
     - index.html
     - index.md
     - _pages/404.md
-
-# Netifly
-include:
-  - "_redirects"
-  - "_headers"
