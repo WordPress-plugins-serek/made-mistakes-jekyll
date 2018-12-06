@@ -119,7 +119,7 @@ plugins:
   - jekyll-typogrify
   - jekyll/figure
   - jekyll-algolia
-  - jekyll-redirect-from
+#  - jekyll-redirect-from
   - jekyll/tagging
   - jekyll-tagging-related_posts
   - jekyll-include-cache
