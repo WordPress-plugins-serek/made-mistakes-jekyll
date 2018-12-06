@@ -1,0 +1,31 @@
+# slugs
+
+projects:
+  name: "Projects"
+
+reviews:
+  name: "Reviews"
+
+about:
+  name: "About"
+
+contact:
+  name: "Contact"
+
+support:
+  name: "Support"
+
+404:
+  name: "Not found"
+
+sitemap:
+  name: "Sitemap"
+
+style-guide:
+  name: "Style guide"
+
+terms:
+  name: "Terms &amp; policies"
+
+tag:
+  name: "Tags"

@@ -1,0 +1,114 @@
+[
+  {
+    "symbol": "ETH",
+    "name": "Etherum",
+    "source": "Nano Leder S",
+    "address": "",
+    "comment": "Any <a href='https://eidoo.io/erc20-tokens-list/'>ERC20 / ERC223</a> token can be sent to this address!"
+  },
+  {
+    "symbol": "ADA",
+    "name": "Cardano",
+    "source": "Binance",
+    "address": "DdzFFzCqrhse9yHSkxwX55uG1xFcf2LX5FRJs8H6ATK5V3PKtaDgSFQHmqzr3H8PcUZDxn9EAZYnzWoQFUqzszEcFJKJvcu2kVhhnq2a",
+    "comment": ""
+  },
+  {
+    "symbol": "ARK",
+    "name": "Ark",
+    "source": "Nano Ledger S",
+    "address": "",
+    "comment": ""
+  },
+  {
+    "symbol": "BAT",
+    "name": "Basic Attention Token",
+    "source": "Binance",
+    "address": "",
+    "comment": ""
+  },
+  {
+    "symbol": "BCH",
+    "name": "Bitcoin Cash",
+    "source": "Bitstamp",
+    "address": "3G5LKbzB1ky1EZ9a3HvRaW4KdYoM8kRGD5",
+    "comment": ""
+  },
+  {
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "source": "Nano Ledger S",
+    "address": "",
+    "comment": ""
+  },
+  {
+    "symbol": "XRP",
+    "name": "Ripple",
+    "source": "Nano Ledger S",
+    "address": "",
+    "comment": ""
+  },
+  {
+    "symbol": "XLM",
+    "name": "Stellar",
+    "source": "Nano Ledger S",
+    "address": "",
+    "comment": ""
+  },
+  {
+    "symbol": "LTC",
+    "name": "Litecoin",
+    "source": "Nano Ledger S",
+    "address": "",
+    "comment": ""
+  },
+  {
+    "symbol": "NEO",
+    "name": "NEO",
+    "source": "Nano Ledger S",
+    "address": "AVVXNMsYugswTzRqviDnukXi1YhXGb5dpk",
+    "comment": "Send NEO, GAS and tokens, such as RPX, DBC and RHT, that are compatible with the NEO Blockchain."
+  },
+  {
+    "symbol": "NEM",
+    "name": "NEM",
+    "source": "",
+    "address": "",
+    "comment": ""
+  },
+  {
+    "symbol": "IOTA",
+    "name": "IOTA",
+    "source": "Binance",
+    "address": "",
+    "comment": ""
+  },
+  {
+    "symbol": "XMR",
+    "name": "Monero",
+    "source": "Binance",
+    "address": "",
+    "comment": ""
+  },
+  {
+    "symbol": "TRX",
+    "name": "TRON",
+    "source": "Binance",
+    "address": "",
+    "comment": ""
+  },
+  {
+    "symbol": "QTUM",
+    "name": "Qtum",
+    "source": "Nano Ledger S",
+    "address": "QcSU4XAHs8ZykoBbrQbwXcBHpSSkTQk3jB",
+    "comment": ""
+  },
+  {
+    "symbol": "LSK",
+    "name": "Lisk",
+    "source": "Binance",
+    "address": "",
+    "comment": ""
+  }
+]

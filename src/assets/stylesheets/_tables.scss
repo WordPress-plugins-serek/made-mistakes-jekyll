@@ -1,0 +1,39 @@
+/* ==========================================================================
+   Tables
+   ========================================================================== */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.9em;
+  /* For Firefox to horizontally scroll wider tables */
+  // scss-lint:disable DuplicateProperty
+  word-break: normal;
+  word-break: keep-all;
+}
+
+tr th {
+  border-bottom: 1px solid $border-color;
+}
+
+tr:not(:last-child) {
+  td {
+    border-bottom: 1px solid $border-color;
+  }
+}
+
+th {
+  font-weight: bold;
+  padding: 0.5em;
+  text-align: left;
+}
+
+td {
+  padding: 0.5em;
+}
+
+tr,
+td,
+th {
+  vertical-align: middle;
+}

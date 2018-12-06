@@ -1,0 +1,84 @@
+/* ==========================================================================
+   Entries (Posts, collection documents, etc.)
+   ========================================================================== */
+
+.entry {
+  position: relative;
+  margin-bottom: 3em;
+}
+
+.entry__title {
+  margin-bottom: 0;
+  font-weight: 700;
+  line-height: 1.25;
+
+  @include breakpoint($md-up) {
+    font-size: 1.563em;
+  }
+
+  a::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+}
+
+.entry__meta {
+  @include margin-bottom(0.5);
+  font-family: $monospace-font;
+  font-size: 0.8em;
+  text-transform: uppercase;
+
+  *:not(:first-child) {
+    &::before {
+      content: ' · ';
+    }
+  }
+}
+
+.entry__image {
+  margin-bottom: 1em;
+}
+
+.entry__excerpt {
+  p::after {
+    content: ' […]';
+  }
+
+  a {
+    position: relative;
+    z-index: 5;
+  }
+}
+
+.entries__columns {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  @include breakpoint($md-up) {
+    display: grid;
+    grid-column-gap: 2em;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @include breakpoint($lg-up) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  a {
+    border-bottom: 1px solid $border-color;
+    color: inherit;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.25em 0;
+    text-decoration: none;
+  }
+
+  .count {
+    color: mix(#fff, $text-color, 25%);
+  }
+}
