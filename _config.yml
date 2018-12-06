@@ -225,3 +225,8 @@ algolia:
     - index.html
     - index.md
     - _pages/404.md
+
+# Netifly
+include:
+  - "_redirects"
+  - "_headers"

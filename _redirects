@@ -1,0 +1,3 @@
+# Redirect default Netlify subdomain to primary domain
+http://odd-one-out-serek-eu.netlify.com/* http://odd-one-out.serek.eu/:splat 301!
+https://odd-one-out-serek-eu.netlify.com/* https://odd-one-out.serek.eu/:splat 301!
