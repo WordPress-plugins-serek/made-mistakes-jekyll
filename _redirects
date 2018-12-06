@@ -3,7 +3,8 @@ http://odd-one-out-serek-eu.netlify.com/* http://odd-one-out.serek.eu/:splat 301
 https://odd-one-out-serek-eu.netlify.com/* https://odd-one-out.serek.eu/:splat 301!
 
 # Old posturls
-/external-graphics-card-experiment-part-1/ /projects/external-graphics-card-experiment-part-1
+https://odd-one-out.serek.eu/external-graphics-card-experiment-part-1/ https://odd-one-out.serek.eu/projects/external-graphics-card-experiment-part-1
+#/external-graphics-card-experiment-part-1/ /projects/external-graphics-card-experiment-part-1
 /egpu-rmbp-windows7-bios-nvidia-gtx-760-p4el/ /projects/egpu-rmbp-windows7-bios-nvidia-gtx-760-p4el
 /keyz-keyholder/ /projects/keyz-keyholder
 /windows-10-egpu-setup-optimus/ /projects/windows-10-egpu-setup-optimus
