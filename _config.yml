@@ -84,8 +84,8 @@ keep_files:
   - .git
 include:
   - _pages
-  - _headers
-  - _redirects
+#  - _headers
+#  - _redirects
 exclude:
   - .asset-cache
   - .bundle
