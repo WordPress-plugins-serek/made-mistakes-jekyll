@@ -10,7 +10,6 @@ comments: false
 comments_locked: true
 published: true
 last_modified_at: 2015-05-06T20:49:30
-redirect_from: "/amazon-affiliate-link-wp-super-cache-preload/"
 toc: true
 ---
 Recently I blogged about using the Amazon Link plugin to create localised Amazon links to the products and parts I use in my post [here](/code/geo-targeted-amazon-affiliate-links-in-wordpress/). I later enabled the WP Super Cache plugin to make my site faster, but noticed that I got the wrong localised links. It turns out that the cache will save a localised page and serve this page to all the following visitors. If the first visitor was from the United Kingdom, then everyone else will get links to Amazon.co.uk on that page no matter what country they arrive from. One solution is to make the cache location aware as I will describe. Lastly I will show how one can preload the cache for the different countries when using the Amazon Link plugin.

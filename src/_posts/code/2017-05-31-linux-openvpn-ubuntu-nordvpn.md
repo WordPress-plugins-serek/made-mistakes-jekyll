@@ -9,7 +9,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2017-05-31T14:36:06
-redirect_from: "/linux-openvpn-ubuntu-nordvpn/"
 toc: true
 ---
 The post will show you how to setup a headless linux server using Ubuntu 16.04 LTS and only allowing outgoing connections using a secure VPN [^vpn] connection with OpenVPN. If the VPN connection fails, no traffic is leaked. I will be using NordVPN as an example VPN provider since it is what I use myself, but any VPN provider with OpenVPN profiles should work.

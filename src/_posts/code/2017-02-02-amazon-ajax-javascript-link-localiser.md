@@ -9,7 +9,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2017-02-02T20:19:19
-redirect_from: "/amazon-ajax-javascript-link-localiser/"
 toc: true
 ---
 I recently [wrote](/code/wordpress-caching-static-html-cloudflare/) about how a cache everything on this site on CloudFlare - including the HTML pages. This does not play nice with my geo-aware cache setup which I used to generate specific pages with localised links depending which country my visitor came from. To get around this problem I have written some Javascript to be able to localise links and through an AJAX [^ajax] call get the visitors location. It works by

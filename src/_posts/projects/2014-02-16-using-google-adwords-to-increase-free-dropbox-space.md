@@ -12,7 +12,6 @@ comments: false
 comments_locked: true
 published: true
 last_modified_at: 2014-02-16T14:00:00-04:00
-redirect_from: "/using-google-adwords-to-increase-free-dropbox-space/"
 toc: false
 ---
 A few years ago I stumbled upon this article

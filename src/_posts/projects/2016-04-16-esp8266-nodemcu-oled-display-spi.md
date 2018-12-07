@@ -14,7 +14,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2016-04-16T21:19:17
-redirect_from: "/esp8266-nodemcu-oled-display-spi/"
 toc: true
 ---
 I bought a $4 1 inch OLED SPI display that I wanted to use with my ESP8266 development board. By using an online [service](http://nodemcu-build.com) to create a streamlined NodeMCU firmware this was a breeze!

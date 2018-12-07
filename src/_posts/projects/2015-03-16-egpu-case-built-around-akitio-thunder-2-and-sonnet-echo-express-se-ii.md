@@ -13,7 +13,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2015-03-16T20:15:00
-redirect_from: "/egpu-case-built-around-akitio-thunder-2-and-sonnet-echo-express-se-ii/"
 toc: true
 ---
 I decided to recreate a smaller version of the eGPU case I made in my [previous](/projects/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l/) setup. I combine an AKiTiO Thunder2 board and my old Sonnet Echo Express SE II to have a graphics card, SSD drive and a pair of USB 3.0 ports. There is room for an additional hard drive and PCI-e slot. The setup is cooled using two 200mm fans, one fan cooling the graphics cards, the other the laptop.

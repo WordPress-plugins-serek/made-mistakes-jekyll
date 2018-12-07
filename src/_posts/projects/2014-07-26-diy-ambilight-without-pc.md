@@ -13,7 +13,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2014-07-26T22:24:00
-redirect_from: "/diy-ambilight-without-pc/"
 toc: true
 ---
 Ever wished you had Philips Ambilight for your tv or monitor? Well, make it yourself and save a buck or two! This post uses the ambi-tv system to create an Ambilight clone.

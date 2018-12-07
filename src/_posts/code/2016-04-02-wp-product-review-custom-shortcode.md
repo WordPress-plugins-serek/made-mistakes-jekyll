@@ -13,7 +13,6 @@ comments: false
 comments_locked: true
 published: true
 last_modified_at: 2016-04-02T19:45:05
-redirect_from: "/wp-product-review-custom-shortcode/"
 toc: true
 ---
 I am preparing to write reviews on my blog and stumbled on the [WP Product Review](https://wordpress.org/plugins/wp-product-review/) plugin for Wordpress which seemed like a perfect fit. However, when I inserted the review box at the end of my posts, it was placed below my social share buttons.

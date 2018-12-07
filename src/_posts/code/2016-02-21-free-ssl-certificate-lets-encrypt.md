@@ -8,7 +8,6 @@ comments: false
 comments_locked: true
 published: true
 last_modified_at: 2016-02-21T20:12:29
-redirect_from: "/free-ssl-certificate-lets-encrypt/"
 toc: true
 ---
 [Let's Encrypt](https://letsencrypt.org) is a free, automated, and open certificate authority which is currently in open beta. Translation: Get free SSL certificates without all the hassle of creation and renewal! This is backed by major players like Mozilla, Facebook, Chrome and Cisco.

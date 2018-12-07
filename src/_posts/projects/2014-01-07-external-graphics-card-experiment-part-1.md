@@ -12,7 +12,6 @@ comments: false
 comments_locked: true
 published: true
 last_modified_at: 2014-05-25T19:48:00
-redirect_from: "/external-graphics-card-experiment-part-1/"
 toc: true
 ---
 I always wanted to have a small light portable computer on the go and when I get home to use a docking station and get the full desktop experience. Following other people examples on the internet I have made this cheap solution with and external graphics card in the docking station (eGPU) that can be used with an external monitor or accelerate the internal screen of the laptop.

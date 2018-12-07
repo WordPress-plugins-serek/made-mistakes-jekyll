@@ -13,7 +13,6 @@ comments: false
 comments_locked: true
 published: true
 last_modified_at: 2015-11-10T20:08:02
-redirect_from: "/piwigo-thumbnail-generation-script/"
 toc: true
 ---
 [^piwigo]: [Piwigo](http://piwigo.org) is an open source photo gallery using PHP and MySQL

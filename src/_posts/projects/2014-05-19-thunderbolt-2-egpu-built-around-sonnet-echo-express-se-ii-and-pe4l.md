@@ -13,7 +13,6 @@ comments: false
 comments_locked: true
 published: true
 last_modified_at: 2014-05-19T23:42:00
-redirect_from: "/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l/"
 toc: true
 ---
 I recently upgraded to a new eGPU setup which is faster than the one I describe in this [post](/projects/external-graphics-card-experiment-part-1). It is built around the Sonnet Echo Express SE II and using a long thunderbolt cable and a thunderbolt dock with HDMI enables me to have a silent gaming setup built around my laptop. Adding a hard disk frees up some much-needed space on my laptop without sacrificing hard disk speed.

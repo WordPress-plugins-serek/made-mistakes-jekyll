@@ -8,7 +8,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2017-04-20T19:16:24
-redirect_from: "/lets-encrypt-dns-challenge-cloudflare-acme-sh/"
 toc: false
 ---
 I wrote a small blog [post](/code/free-ssl-certificate-lets-encrypt/) about getting free SSL certificates using Let's Encrypt. It required outside access for the validations process to work. But now I needed SSL certificates for my local services without public access, this turned out to be very easy using [acme.sh](https://github.com/Neilpang/acme.sh) DNS challenge and CloudFlare DNS.

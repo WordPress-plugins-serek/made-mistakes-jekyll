@@ -8,7 +8,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2016-11-10T22:04:15
-redirect_from: "/migrate-openvz-container-without-node-host-access/"
 toc: true
 ---
 Today I received a notice that all Crissic.net OpenVZ VPS customers are cancelled 30 days from now so I needed to figure out fast how to migrate my OpenVZ container to another hosting company. Lucky for me, the process took less than 10 minutes without access to the OpenVZ node. My setup is:

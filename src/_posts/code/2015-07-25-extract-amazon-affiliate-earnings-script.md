@@ -13,7 +13,6 @@ comments: false
 comments_locked: true
 published: true
 last_modified_at: 2015-07-25T17:11:19
-redirect_from: "/extract-amazon-affiliate-earnings-script/"
 toc: true
 ---
 [^php-oara]: [Open Affiliate Report Aggregator (OARA)](https://github.com/fubralimited/php-oara) is a set of PHP classes that can download affiliate reports from a number of affiliate networks

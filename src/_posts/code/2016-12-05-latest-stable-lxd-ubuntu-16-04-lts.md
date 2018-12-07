@@ -12,7 +12,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2016-12-05T19:37:59
-redirect_from: "/latest-stable-lxd-ubuntu-16-04-lts/"
 toc: true
 ---
 I have previously a small guide on how to get started with LXD 2.0 [here](/code/lxd-2-0-container-hypervisor/). This however install LXD 2.0.5 and the current stable version is 2.6.2 at the time of writing. The whole setup is on a KVM VPS at [RamNode](https://clientarea.ramnode.com/aff.php){:rel="nofollow"}. Notice that OpenVZ VPS does not support LXD as the kernel is too old.

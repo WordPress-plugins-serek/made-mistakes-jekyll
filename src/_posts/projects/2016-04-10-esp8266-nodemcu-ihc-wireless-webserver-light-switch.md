@@ -14,7 +14,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2016-04-09T22:00:47
-redirect_from: "/esp8266-nodemcu-ihc-wireless-webserver-light-switch/"
 toc: true
 ---
 Recently I installed several intelligent IHC Wireless lightswitches and power outlets from Lauritz Knudsen. They can be programmed so that any switch can wirelessly control any other switch or power outlet. I wanted to control these switches using my phone and was left with three options

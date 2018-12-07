@@ -12,7 +12,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2016-08-06T15:45:26
-redirect_from: "/free-email-forward-mailgun-gmail/"
 toc: true
 ---
 I recently started moving away from my Danish Domain and DNS provider GratisDNS which charges me about $7.5 per year just for an email forward service which I use to be able to send and receive emails as serek.eu from my gmail account. This can be done for free using [Mailgun.com](https://mailgun.com){:rel="nofollow"}! This includes unlimited incoming mails and 10.000 outgoing mails per month which is more than enough for my needs.

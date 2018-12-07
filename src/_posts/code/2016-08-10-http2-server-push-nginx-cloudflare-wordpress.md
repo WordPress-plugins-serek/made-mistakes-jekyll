@@ -14,7 +14,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2016-08-10T20:19:02
-redirect_from: "/http2-server-push-nginx-cloudflare-wordpress/"
 toc: true
 ---
 With CloudFlare [supporting](https://blog.cloudflare.com/announcing-support-for-http-2-server-push-2/) HTTP/2 and Server Push, we can leverage that by using CloudFlare as a CDN even though NGINX does not support Server Push.

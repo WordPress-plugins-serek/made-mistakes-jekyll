@@ -12,7 +12,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2016-01-30T22:43:35
-redirect_from: "/windows-10-egpu-setup-optimus/"
 toc: true
 ---
 Last year I did a Thunderbolt 2 enabled external GPU setup using Windows 8.1. I did not upgrade right away when Windows 10 came out because Optimus was [broken](https://www.techinferno.com/index.php?/forums/topic/8918-egpu-window-10-optimus-mode-problem/) which meant I could not use the internal laptop screen. Now NVIDIA has finally fixed the problem in the latest 361.75 driver as described in the release highlights:

@@ -14,7 +14,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2015-09-10T21:39:25
-redirect_from: "/esp8266-nodemcu-dht22-mqtt-deep-sleep/"
 toc: true
 ---
 

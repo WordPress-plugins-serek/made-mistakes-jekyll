@@ -13,7 +13,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2016-05-22T22:31:45
-redirect_from: "/bullitt-hood-001-review/"
 toc: true
 ---
 I was lucky enough to get the Bullitt Hood 001 at a reduced price from [fahrer-berlin.de](http://www.fahrer-berlin.de). This is basically a permanently attached weatherproof bag for the Bullitt cargo bike that can be collapsed when not needed. The Hood 002 is the same bag, just in red. The cargo bag is attached as a backplate using four screws. When the Hood 001 cargo bag is attached and collapsed, it only takes up 3 centimetres of space and keeps most of the cargo area free.

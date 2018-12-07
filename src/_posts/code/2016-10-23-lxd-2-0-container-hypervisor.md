@@ -12,7 +12,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2016-10-23T15:36:45
-redirect_from: "/lxd-2-0-container-hypervisor/"
 toc: true
 ---
 For the past few years I have been migrating between different [OpenVZ](https://en.wikipedia.org/wiki/OpenVZ){:rel="nofollow"} [VPS](https://en.wikipedia.org/wiki/Virtual_private_server){:rel="nofollow"} providers and each time it has been a hassle to migrate and upgrade my virtual machines between them. Then I stumbled upon [LXD](https://www.ubuntu.com/cloud/lxd){:rel="nofollow"} which in combination with a [KVM](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine){:rel="nofollow"} VPS seems like a perfect fit for running multiple containers on a single KVM VPS and migrating them to and from others LXD hosts with a single command! Notice that using OpenVZ VPS'es is not possible since the kernel is too old. For this post I used [VirtualBox](https://www.virtualbox.org){:rel="nofollow"}, but plan on migrating the whole setup to a KVM VPS at [RamNode](https://clientarea.ramnode.com/aff.php){:rel="nofollow"} which I highly recommend.

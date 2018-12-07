@@ -12,7 +12,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2016-03-13T20:30:13
-redirect_from: "/bullitt-cargo-bike-voltaic-solar-panels/"
 toc: false
 ---
 I finally became a proper citizen of Copenhagen, Denmark... I bought a cargo bicycle! Now this isn't any old cargo bike, it is a new take on the Danish Long John from 1923. Introducing the [Bullitt](http://larryvsharry.com) from Larry vs Harry with a load capacity of 180 kilo, driver included. Now with all that room and capacity it is time to take my geeky projects outside and enjoy the weather!

@@ -7,7 +7,6 @@ comments: false
 comments_locked: true
 published: true
 last_modified_at: 2014-05-01T11:00:00
-redirect_from: "/rip-songs-from-spotify-SpotifyRecorder/"
 toc: false
 ---
 When going to and from work I have a bad internet connection in the metro and therefore cannot use Spotify unless I pay for it to get offline support on my mobile. You can however rip the songs as MP3's and transfer them to your phone for offline playback. In Denmark at least this is legal to my knowledge since you can rip songs from internet radio stations as long as the radio station itself is broadcasting legally and one does not need to break any encryption, see [here](http://kum.dk/infokiosk/musik/#9) (page in Danish). To do this I did the following

@@ -9,7 +9,6 @@ comments: false
 comments_locked: true
 published: true
 last_modified_at: 2015-04-06T19:00:51
-redirect_from: "/geo-targeted-amazon-affiliate-links-in-wordpress/"
 toc: true
 ---
 In most of my blogs I have always posted links to Amazon for the components I have used. The problem was I was always posting them to Amazon.com. I wanted to change that so when the reader clicking on one of these links they would redirect to the nearest Amazon store, e.g. Amazon.co.uk. This gives my reader a better experience and I get a higher chance of earning a small commission through the Amazon Affiliate program.

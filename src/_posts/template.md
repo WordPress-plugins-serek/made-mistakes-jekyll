@@ -13,7 +13,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2014-07-26T22:24:00
-redirect_from: "/old/url/to/post/"
 toc: true
 ---
 {% figure caption:"*Markdown* caption" %}

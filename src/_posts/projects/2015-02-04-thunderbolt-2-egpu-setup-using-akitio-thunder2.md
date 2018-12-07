@@ -12,7 +12,6 @@ comments: false
 comments_locked: true
 published: true
 last_modified_at: 2015-02-04T19:38:00
-redirect_from: "/thunderbolt-2-egpu-setup-using-akitio-thunder2/"
 toc: true
 ---
 I wanted to try a simpler and cheaper external GPU (eGPU) setup than I have used [previously](/projects/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l/). For this I use the AKiTiO Thunder2 which is a fairly inexpensive compared to the rest of the pack.

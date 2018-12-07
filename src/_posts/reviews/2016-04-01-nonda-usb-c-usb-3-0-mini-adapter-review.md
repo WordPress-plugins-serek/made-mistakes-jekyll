@@ -12,7 +12,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2016-04-01T20:42:26
-redirect_from: "/nonda-usb-c-usb-3-0-mini-adapter-review/"
 toc: true
 ---
 I was lucky enough to get a review sample from [Nonda](http://www.nonda.co){:rel="nofollow"} of their tiny USB-C USB 3.0 adapter, which was very lucky since I was in dire need of one when I recently bought the new retina MacBook with only a single USB-C port. While I am still waiting for their [Hub+](https://www.nonda.co/products/hub-mini-usb-c-hub-for-apple-macbook-12-inch) solution I am using these inexpensive adapter to convert my old USB-A cables to USB-C.

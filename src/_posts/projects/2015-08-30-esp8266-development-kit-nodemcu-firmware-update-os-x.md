@@ -9,7 +9,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2015-08-30T20:04:13
-redirect_from: "/esp8266-development-kit-nodemcu-firmware-update-os-x/"
 toc: true
 ---
 I have [previously](/projects/esp8266-getting-started-hello-world/) written a small guide to getting started programming the ESP8266 development kit with the NodeMCU firmware. This post assumes that you have a fully working setup. Specifically I use the [Seeedstudio NodeMCU v2 - Lua based ESP8266 development kit](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=nodemcu+esp8266){:rel="nofollow"}. I will flash to the latest version of [NodeMCU](http://nodemcu.com/index_en.html).

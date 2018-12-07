@@ -14,7 +14,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2016-03-19T18:01:2
-redirect_from: "/esp8266-nodemcu-dht22-thingspeak/"
 toc: true
 ---
 I have previously [written](/projects/esp8266-nodemcu-dht22-mqtt-deep-sleep/) about pushing temperature and humidity readings from an ESP8266 to a MQTT server using a DHT22 sensor. Later I [leveraged](/projects/esp8266-nodemcu-dht22-custom-modules-firmware/) NodeMCU's built-in DHT22 library by using an online [service](http://nodemcu-build.com) to create a streamlined NodeMCU firmware fit for my needs. However, a reader asked me about pushing data to [ThingSpeak.com](http://thingspeak.com) instead and here is the reply.

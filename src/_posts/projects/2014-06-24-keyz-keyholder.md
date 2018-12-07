@@ -12,7 +12,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2014-06-24T20:00:00
-redirect_from: "/keyz-keyholder/"
 toc: false
 ---
 I got tired of having too much stuff in my pockets so I started a project to reduce the amount of stuff I carry, starting with my keys. I chose only to carry 2 keys and one access token with me at all times. But the keychain, keys and token were still a bit bulky, so I purchased the [KeyZ](https://www.kickstarter.com/projects/key-z/keyz-bulky-keys-made-easy), a kickstarter project to eliminate the keychain.

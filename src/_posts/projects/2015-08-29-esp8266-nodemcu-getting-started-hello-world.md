@@ -14,7 +14,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2015-08-30T18:19:46
-redirect_from: "/esp8266-nodemcu-getting-started-hello-world/"
 toc: true
 ---
 [^ESP8266]: The [ESP8266](https://en.wikipedia.org/wiki/ESP8266) is a low-cost Wi-Fi chip with full TCP/IP stack and MCU (microcontroller unit) capability

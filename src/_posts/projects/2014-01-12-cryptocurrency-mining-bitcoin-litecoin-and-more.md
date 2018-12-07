@@ -12,7 +12,6 @@ comments: false
 comments_locked: true
 published: true
 last_modified_at: "2014-01-12T19:00:00"
-redirect_from: /cryptocurrency-mining-bitcoin-litecoin-and-more/
 toc: true
 ---
 You might have heard about digital currency called Bitcoin in the news. The value from a single Bitcoin has grown from a few dollars to 1200 USD and recently back to 1000 USD, a highly volatile currency.

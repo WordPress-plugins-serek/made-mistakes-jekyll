@@ -12,7 +12,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2015-06-03T17:38:56
-redirect_from: "/external-graphics-card-egpu/"
 toc: true
 ---
 For the past year I have blogged about NVIDIA based external graphics card (eGPU) setups. This post will sum up my work, findings and recommendations. First I will briefly describe the concept, then the individual parts with my recommendation and lastly links to various guides on hardware and software setup, mostly my own posts.

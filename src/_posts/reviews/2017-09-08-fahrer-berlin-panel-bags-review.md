@@ -13,7 +13,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2017-09-08T08:29:30
-redirect_from: "/fahrer-berlin-panel-bags-review/"
 toc: true
 ---
 I was lucky enough to get the Bullitt Panel Bags at a reduced price from [fahrer-berlin.de](http://www.fahrer-berlin.de){:rel="nofollow"}. It is a set of bags that sits in an otherwise unused space behind the main cargo area of the Danish Bullitt cargo bike.

@@ -9,7 +9,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2017-04-13T11:03:31
-redirect_from: "/ubuntu-canonical-livepatch-service/"
 toc: false
 ---
 Since I am running several machines with LXD [^lxd] containers, it is extra important to keep the host kernel up-to-date with security patches since every container uses the host kernel. Using Canonicals Livepatch Service enables live patching without a reboot / restart for free for up to 3 machines.

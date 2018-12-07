@@ -12,7 +12,6 @@ comments: false
 comments_locked: true
 published: true
 last_modified_at: 2014-04-02T19:21:00
-redirect_from: "/egpu-rmbp-windows7-bios-nvidia-gtx-760-p4el/"
 toc: true
 ---
 This post describes how to get the card working in Windows 7 (BIOS / Bootcamp install) which includes getting Optimus to work (read: Accelerating the internal screen of the laptop). This is mostly getting the software to work, my hardware setup is described more [here](/projects/external-graphics-card-experiment-part-1).

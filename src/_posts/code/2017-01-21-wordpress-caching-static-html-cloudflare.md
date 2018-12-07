@@ -13,7 +13,6 @@ comments: false
 comments_locked: true
 published: true
 last_modified_at: 2017-01-21T19:41:16
-redirect_from: "/wordpress-caching-static-html-cloudflare/"
 toc: true
 ---
 I already use CloudFlare as a CDN (content delivery network) to cache my static resources and serve them closer to the visitor. CloudFlare also automatically serves content using HTTP/2 and even allows one to use [Server Push](/code/http2-server-push-nginx-cloudflare-wordpress/) feature to push resources before the browser even has received the HTML page. The last step is to cache everything at CloudFlare - the HTML pages.

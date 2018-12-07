@@ -7,7 +7,6 @@ comments: false
 comments_locked: true
 published: true
 last_modified_at: 2014-02-24T07:00:00
-redirect_from: "/egpu-osx-maverick-nvidia-gtx-760-using-pe4l/"
 toc: true
 ---
 A while ago I made an external GPU setup described [here](/projects/external-graphics-card-experiment-part-1/). Now I have replaced my Lenovo T430s laptop with a MacBook pro 13 retina (late 2013 model) and worked on getting the card to work under both Windows 7, Windows 8.1 and OS X. This post describes how to get the card working in OS X 10.9 (Maverick)

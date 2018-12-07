@@ -13,7 +13,6 @@ comments: false
 comments_locked: true
 published: true
 last_modified_at: 2016-02-14T18:57:43
-redirect_from: "/prism-wordpress-without-plugin/"
 toc: false
 ---
 I was looking for a lightweight code syntax highlighter for WordPress that only loaded when needed on the page. I found [Prism](http://prismjs.com) which fitted my needs. There are a few WordPress plugins for Prism, but I felt that it was not needed and too bloated. Here is what I did

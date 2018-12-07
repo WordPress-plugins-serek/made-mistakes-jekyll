@@ -14,7 +14,6 @@ comments: false
 comments_locked: false
 published: true
 last_modified_at: 2015-10-24T21:31:21
-redirect_from: "/esp8266-nodemcu-dht22-custom-modules-firmware/"
 toc: true
 ---
 I previously wrote a [post](/projects/esp8266-nodemcu-dht22-mqtt-deep-sleep/) about using the ESP8266 NodeMCU firmware to measure temperature and humidity. I used a lua library to read the values from the DHT22 sensor, but then found out that many of the modules I need for my projects are already included in the NodeMCU firmware! Even better, at [frightanic.com](http://frightanic.com/nodemcu-custom-build/) you can customise the NodeMCU firmware and the site will build the version for you and send a download link in a few minutes. Want the latest and greatest firmware? Choose the dev branch. Need more free memory? Choose only the modules you need.

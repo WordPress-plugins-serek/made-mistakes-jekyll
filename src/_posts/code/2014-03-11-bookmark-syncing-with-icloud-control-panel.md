@@ -13,7 +13,6 @@ comments_locked: true
 published: true
 support: false
 last_modified_at: 2014-03-11T15:00:00
-redirect_from: "/bookmark-syncing-with-icloud-control-panel/"
 toc: false
 ---
 I found a small gem of an application called iCloud Control Panel for Windows which enables me to keep my bookmarks synchronised between Safari in OS X and Internet Explorer, Firefox and Chrome in Windows. It also syncs bookmarks between my iOS devices, like my iPhone. It can also synchronise to Android by using Chromes internal Android synchronisation. Setup is very easy:

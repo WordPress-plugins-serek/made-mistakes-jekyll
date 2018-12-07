@@ -12,7 +12,6 @@ comments: false
 comments_locked: true
 published: true
 last_modified_at: 2016-01-27T22:32:32
-redirect_from: "/free-wordpress-jetpack-monitor-replacement/"
 toc: false
 ---
 I am slowly moving away from [Jetpack](http://jetpack.me), a WordPress plugin that bundles many smaller plugins. It is too bulky and I don't need many of the features it offers. One feature I do need is Monitor that checks if my site is up and running every 5 minutes and notifies me by email when it is down or up. The same functionality can be had for free using [uptimerobot.com](http://uptimerobot.com):
