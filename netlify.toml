@@ -116,3 +116,118 @@ from = "/diy-ambilight-without-pc/"
 to = "/projects/diy-ambilight-without-pc"
 status = 301
 force = false
+[[redirects]]
+from = "/amazon-ajax-javascript-link-localiser/"
+to = "/code/amazon-ajax-javascript-link-localiser"
+status = 301
+force = false
+[[redirects]]
+from = "/geo-targeted-amazon-affiliate-links-in-wordpress/"
+to = "/code/geo-targeted-amazon-affiliate-links-in-wordpress"
+status = 301
+force = false
+[[redirects]]
+from = "/wp-product-review-custom-shortcode/"
+to = "/code/wp-product-review-custom-shortcode"
+status = 301
+force = false
+[[redirects]]
+from = "/extract-amazon-affiliate-earnings-script/"
+to = "/code/extract-amazon-affiliate-earnings-script"
+status = 301
+force = false
+[[redirects]]
+from = "/rip-songs-from-spotify-SpotifyRecorder/"
+to = "/code/rip-songs-from-spotify"
+status = 301
+force = false
+[[redirects]]
+from = "/http2-server-push-nginx-cloudflare-wordpress/"
+to = "/code/http2-server-push-nginx-cloudflare-wordpress"
+status = 301
+force = false
+[[redirects]]
+from = "/wordpress-caching-static-html-cloudflare/"
+to = "/code/wordpress-caching-static-html-cloudflare"
+status = 301
+force = false
+[[redirects]]
+from = "/free-ssl-certificate-lets-encrypt/"
+to = "/code/free-ssl-certificate-lets-encrypt"
+status = 301
+force = false
+[[redirects]]
+from = "/lxd-2-0-container-hypervisor/"
+to = "/code/lxd-2-0-container-hypervisor"
+status = 301
+force = false
+[[redirects]]
+from = "/ubuntu-canonical-livepatch-service/"
+to = "/code/ubuntu-canonical-livepatch-service"
+status = 301
+force = false
+[[redirects]]
+from = "/prism-wordpress-without-plugin/"
+to = "/code/prism-wordpress-without-plugin"
+status = 301
+force = false
+[[redirects]]
+from = "/bookmark-syncing-with-icloud-control-panel/"
+to = "/code/bookmark-syncing-with-icloud-control-panel"
+status = 301
+force = false
+[[redirects]]
+from = "/lets-encrypt-dns-challenge-cloudflare-acme-sh/"
+to = "/code/lets-encrypt-dns-challenge-cloudflare-acme-sh"
+status = 301
+force = false
+[[redirects]]
+from = "/free-email-forward-mailgun-gmail/"
+to = "/code/free-email-forward-mailgun-gmail"
+status = 301
+force = false
+[[redirects]]
+from = "/linux-openvpn-ubuntu-nordvpn/"
+to = "/code/linux-openvpn-ubuntu-nordvpn"
+status = 301
+force = false
+[[redirects]]
+from = "/piwigo-thumbnail-generation-script/"
+to = "/code/piwigo-thumbnail-generation-script"
+status = 301
+force = false
+[[redirects]]
+from = "/amazon-affiliate-link-wp-super-cache-preload/"
+to = "/code/amazon-affiliate-link-wp-super-cache-preload"
+status = 301
+force = false
+[[redirects]]
+from = "/migrate-openvz-container-without-node-host-access/"
+to = "/code/migrate-openvz-container-without-node-host-access"
+status = 301
+force = false
+[[redirects]]
+from = "/latest-stable-lxd-ubuntu-16-04-lts/"
+to = "/code/latest-stable-lxd-ubuntu-16-04-lts"
+status = 301
+force = false
+[[redirects]]
+from = "/free-wordpress-jetpack-monitor-replacement/"
+to = "/code/free-wordpress-jetpack-monitor-replacement"
+status = 301
+force = false
+[[redirects]]
+from = "/bullitt-hood-001-review/"
+to = "/reviews/bullitt-hood-001-review"
+status = 301
+force = false
+[[redirects]]
+from = "/nonda-usb-c-usb-3-0-mini-adapter-review/"
+to = "/reviews/nonda-usb-c-usb-3-0-mini-adapter-review"
+status = 301
+force = false
+[[redirects]]
+from = "/fahrer-berlin-panel-bags-review/"
+to = "/reviews/fahrer-berlin-panel-bags-review"
+status = 301
+force = false
