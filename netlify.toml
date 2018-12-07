@@ -43,6 +43,6 @@ status = 301
 force = false
 [[redirects]]
 from = "/thunderbolt-2-egpu-setup-using-akitio-thunder2/"
-to = "/projects/hunderbolt-2-egpu-setup-using-akitio-thunder2"
+to = "/projects/thunderbolt-2-egpu-setup-using-akitio-thunder2"
 status = 301
 force = false
