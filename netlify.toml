@@ -46,3 +46,73 @@ from = "/thunderbolt-2-egpu-setup-using-akitio-thunder2/"
 to = "/projects/thunderbolt-2-egpu-setup-using-akitio-thunder2"
 status = 301
 force = false
+[[redirects]]
+from = "/esp8266-nodemcu-oled-display-spi/"
+to = "/projects/esp8266-nodemcu-oled-display-spi"
+status = 301
+force = false
+[[redirects]]
+from = "/bullitt-cargo-bike-voltaic-solar-panels/"
+to = "/projects/bullitt-cargo-bike-voltaic-solar-panels"
+status = 301
+force = false
+[[redirects]]
+from = "/esp8266-nodemcu-ihc-wireless-webserver-light-switch/"
+to = "/projects/esp8266-nodemcu-ihc-wireless-webserver-light-switch"
+status = 301
+force = false
+[[redirects]]
+from = "/esp8266-nodemcu-getting-started-hello-world/"
+to = "/projects/esp8266-nodemcu-getting-started-hello-world"
+status = 301
+force = false
+[[redirects]]
+from = "/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l/"
+to = "/projects/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l"
+status = 301
+force = false
+[[redirects]]
+from = "/esp8266-nodemcu-dht22-thingspeak/"
+to = "/projects/esp8266-nodemcu-dht22-thingspeak"
+status = 301
+force = false
+[[redirects]]
+from = "/egpu-osx-maverick-nvidia-gtx-760-using-pe4l/"
+to = "/projects/egpu-osx-maverick-nvidia-gtx-760-using-pe4l"
+status = 301
+force = false
+[[redirects]]
+from = "/esp8266-development-kit-nodemcu-firmware-update-os-x/"
+to = "/projects/esp8266-development-kit-nodemcu-firmware-update-os-x"
+status = 301
+force = false
+[[redirects]]
+from = "/egpu-case-built-around-akitio-thunder-2-and-sonnet-echo-express-se-ii/"
+to = "/projects/egpu-case-built-around-akitio-thunder-2-and-sonnet-echo-express-se-ii"
+status = 301
+force = false
+[[redirects]]
+from = "/cryptocurrency-mining-bitcoin-litecoin-and-more/"
+to = "/projects/cryptocurrency-mining-bitcoin-litecoin-and-more"
+status = 301
+force = false
+[[redirects]]
+from = "/esp8266-nodemcu-dht22-custom-modules-firmware/"
+to = "/projects/esp8266-nodemcu-dht22-custom-modules-firmware"
+status = 301
+force = false
+[[redirects]]
+from = "/esp8266-nodemcu-dht22-mqtt-deep-sleep/"
+to = "/projects/esp8266-nodemcu-dht22-mqtt-deep-sleep"
+status = 301
+force = false
+[[redirects]]
+from = "/external-graphics-card-egpu/"
+to = "/projects/external-graphics-card-egpu"
+status = 301
+force = false
+[[redirects]]
+from = "/diy-ambilight-without-pc/"
+to = "/projects/diy-ambilight-without-pc"
+status = 301
+force = false
