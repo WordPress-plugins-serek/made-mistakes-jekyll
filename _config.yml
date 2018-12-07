@@ -84,8 +84,6 @@ keep_files:
   - .git
 include:
   - _pages
-  - _headers
-  - _redirects
 exclude:
   - .asset-cache
   - .bundle
@@ -226,3 +224,8 @@ algolia:
     - index.html
     - index.md
     - _pages/404.md
+
+# Netifly
+include:
+  - "_redirects"
+  - "_headers"
