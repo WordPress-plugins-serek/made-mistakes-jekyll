@@ -1,3 +1,48 @@
+# Build & publish
 [build]
   command = "gulp build --prod"
   publish = "dist"
+
+# SEO redirect
+[[redirects]]
+from = "http://odd-one-out-serek-eu.netlify.com/*"
+to = "http://odd-one-out.serek.eu/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "https://odd-one-out-serek-eu.netlify.com/*"
+to = "https://odd-one-out.serek.eu/:splat"
+status = 301
+force = true
+
+# Old ppost urls redirects
+[[redirects]]
+from = "/external-graphics-card-experiment-part-1/"
+to = "/projects/external-graphics-card-experiment-part-1"
+status = 301
+force = false
+[[redirects]]
+from = "/egpu-rmbp-windows7-bios-nvidia-gtx-760-p4el/"
+to = "/projects/egpu-rmbp-windows7-bios-nvidia-gtx-760-p4el"
+status = 301
+force = false
+[[redirects]]
+from = "/keyz-keyholder/"
+to = "/projects/keyz-keyholder"
+status = 301
+force = false
+[[redirects]]
+from = "/windows-10-egpu-setup-optimus/"
+to = "/projects/windows-10-egpu-setup-optimus"
+status = 301
+force = false
+[[redirects]]
+from = "/using-google-adwords-to-increase-free-dropbox-space/"
+to = "/projects/using-google-adwords-to-increase-free-dropbox-space"
+status = 301
+force = false
+[[redirects]]
+from = "/thunderbolt-2-egpu-setup-using-akitio-thunder2/"
+to = "/projects/hunderbolt-2-egpu-setup-using-akitio-thunder2"
+status = 301
+force = false
