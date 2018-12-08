@@ -5,19 +5,19 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: src/_posts
-  label: Posts2
+  path: src/_pages
+  label: Pages
   create: all
   match: "**/*"
   new_doc_ext: ".md"
-- type: jekyll-pages
-  label: Pages
-  create: all
-- type: jekyll-posts
+- type: directory
+  path: src/_posts
   label: Posts
   create: all
-upload_dir: /src/assets/images/feature
+  match: "**/*"
+  new_doc_ext: md
+upload_dir: src/assets/images/feature
 public_path: "/assets/images"
-front_matter_path: ""
+front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
