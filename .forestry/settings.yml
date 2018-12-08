@@ -4,24 +4,20 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: src/_posts
+  label: Posts2
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
 - type: jekyll-pages
   label: Pages
   create: all
 - type: jekyll-posts
   label: Posts
   create: all
-- type: directory
-  path: ".tmp/src/_colors"
-  label: Colors
-  create: all
-  match: "**/*"
-- type: directory
-  path: ".tmp/src/_components"
-  label: Components
-  create: all
-  match: "**/*"
-upload_dir: /src/assets/images/feature
+upload_dir: src/assets/images/feature
 public_path: "/assets/images"
-front_matter_path: '/src'
+front_matter_path: "/src"
 use_front_matter_path: true
 file_template: ":filename:"
