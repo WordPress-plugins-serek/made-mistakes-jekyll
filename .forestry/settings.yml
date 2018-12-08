@@ -16,8 +16,8 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-upload_dir: src/assets/images/feature
+upload_dir: /src/assets/images/feature
 public_path: "/assets/images"
-front_matter_path: "/src"
-use_front_matter_path: true
+front_matter_path: ""
+use_front_matter_path: false
 file_template: ":filename:"
