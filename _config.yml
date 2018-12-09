@@ -84,8 +84,6 @@ keep_files:
   - .git
 include:
   - _pages
-#  - _headers
-#  - _redirects
 exclude:
   - .asset-cache
   - .bundle
@@ -119,7 +117,6 @@ plugins:
   - jekyll-typogrify
   - jekyll/figure
   - jekyll-algolia
-#  - jekyll-redirect-from
   - jekyll/tagging
   - jekyll-tagging-related_posts
   - jekyll-include-cache
