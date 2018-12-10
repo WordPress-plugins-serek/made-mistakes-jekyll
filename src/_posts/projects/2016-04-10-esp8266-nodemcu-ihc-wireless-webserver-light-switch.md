@@ -26,16 +26,16 @@ Option 1 is too expensive for what I want to do and as far as I know nobody has 
 I bought a battery powered IHC Wireless switch with a total of 7 buttons. Each lightswitch has one on and one off button. The last button is used to program the switch. This was the cheapest option at around $75. Next I took the switch apart and saw it was a simple matter to activate the 7 small buttons.
 
 {% figure caption:"IHC Wireless battery powered switch, here shown fully assembled, with the button panels of and with the front cover off" class:"gallery-3-col" %}
-  [![IHC Wireless battery powered switch](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-front-768.jpg)](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-front-768.jpg)
-  [![IHC Wireless battery powered switch with the button panels taken off](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-without-button-panels-768.jpg)](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-without-button-panels-768.jpg)
-  [![IHC Wireless battery powered switch with the front panel off](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-internal-768.jpg)](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-internal-768.jpg)
+  [![IHC Wireless battery powered switch](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-front.jpg)](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-front.jpg)
+  [![IHC Wireless battery powered switch with the button panels taken off](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-without-button-panels.jpg)](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-without-button-panels.jpg)
+  [![IHC Wireless battery powered switch with the front panel off](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-internal.jpg)](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-internal.jpg)
 {% endfigure %}
 
 Next I hooked up and ESP8266 development board, a few BC547B transistors, 10K resistors and wires and that was it for the hardware setup.
 
 {% figure caption:"ESP8266 development board controlling button 1 and 2 of the IHC Wireless switch" class:"gallery-2-col" %}
-  [![ESP8266 development board controlling button 1 and 2 of the IHC Wireless switch](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-working-prototype-1024.jpg)](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-working-prototype-1024.jpg)
-  [![ESP8266 development board controlling button 1 and 2 of the IHC Wireless switch – closeup](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-working-prototype-closeup-1024.jpg)](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-working-prototype-closeup-1024.jpg)
+  [![ESP8266 development board controlling button 1 and 2 of the IHC Wireless switch](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-working-prototype.jpg)](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-working-prototype.jpg)
+  [![ESP8266 development board controlling button 1 and 2 of the IHC Wireless switch – closeup](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-working-prototype-closeup.jpg)](/assets/images/esp8266-nodemcu-ihc-wireless-webserver-light-switch-working-prototype-closeup.jpg)
 {% endfigure %}
 
 Notice that I have only hooked up two buttons, but the webserver supports up to 7 buttons

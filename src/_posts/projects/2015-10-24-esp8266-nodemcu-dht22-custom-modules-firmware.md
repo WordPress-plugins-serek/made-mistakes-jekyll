@@ -20,7 +20,7 @@ I previously wrote a [post](/projects/esp8266-nodemcu-dht22-mqtt-deep-sleep/) ab
 
 ## Customise NodeMCU firmware
 {% figure caption:"Choose which branch and which modules to enable and in a few minutes you will have a custom NodeMCU firmware emailed to you." %}
-![](/assets/images/esp8266-nodemcu-dht22-custom-modules-firmware-configure-768.png)
+![](/assets/images/esp8266-nodemcu-dht22-custom-modules-firmware-configure.png)
 {% endfigure %}
 
 As you can see from the screenshot there are plenty of libraries for various components you might need. For this post I choose the "DHT" and "MQTT" module in addition to the default ones. Then click the download link in the mail to download the integer version. Follow my instructions in [this](/projects/esp8266-development-kit-nodemcu-firmware-update-os-x/) post to flash the firmware and be sure to read the troubleshooting section if you run into problems. Connect to the ESP8266 and you should see something like this:

@@ -16,7 +16,7 @@ toc: false
 ---
 I finally became a proper citizen of Copenhagen, Denmark... I bought a cargo bicycle! Now this isn't any old cargo bike, it is a new take on the Danish Long John from 1923. Introducing the [Bullitt](http://larryvsharry.com) from Larry vs Harry with a load capacity of 180 kilo, driver included. Now with all that room and capacity it is time to take my geeky projects outside and enjoy the weather!
 {% figure caption:"My Bullitt cargo bike in Copenhagen, loaded up with a few Voltaic solar panels." %}
-![](/assets/images/bullitt-cargo-bike-voltaic-solar-panels-Bullitt-1024.jpg)
+![](/assets/images/bullitt-cargo-bike-voltaic-solar-panels-Bullitt.jpg)
 {% endfigure %}
 
 {% include affiliate-disclosure.html %}
@@ -27,7 +27,7 @@ One thing I needed was a renewable source of energy so I bought a front wheel dy
 So I decided to mount my Voltaic solar panels for a total of 30 watts of pure solar power!
 
 {% figure caption:"Bullitt cargo bike with Voltaic Arc 20W and Fuse 10W solar panels mounted. The charging is done using a 16.000 mAh Voltaic V60 battery." %}
-![](/assets/images/bullitt-cargo-bike-voltaic-solar-panels-Voltaic-Arc-20W-Fuse-10W-1024.jpg)
+![](/assets/images/bullitt-cargo-bike-voltaic-solar-panels-Voltaic-Arc-20W-Fuse-10W.jpg)
 {% endfigure %}
 
 The setup consists of

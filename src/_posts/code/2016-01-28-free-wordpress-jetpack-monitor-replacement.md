@@ -19,7 +19,7 @@ I am slowly moving away from [Jetpack](http://jetpack.me), a WordPress plugin th
 1. Sign up for a free account at [uptimerobot.com](http://uptimerobot.com) and activate the account
 2. Add a new HTTP(s) monitor for you website and remember to select your email under "Alert Contacts To Notify"
 {% figure caption:"Uptimerobot.com monitor dashboard" %}
-![](/assets/images/free-wordpress-jetpack-monitor-replacement-Uptimerobot.com-dashboard-1024.png)
+![](/assets/images/free-wordpress-jetpack-monitor-replacement-Uptimerobot.com-dashboard.png)
 {% endfigure %}
 
 Thats it! You now get the same 5 minute interval checking as Jetpacks Monitor service. In addition you get a nice simple dashboard to keep track of up and downtime.

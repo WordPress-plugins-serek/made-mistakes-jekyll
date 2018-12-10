@@ -55,7 +55,7 @@ I recently upgraded to a new eGPU setup which is faster than the one I describe 
 
 ### The case
 {% figure caption:"Right / back side" %}
-![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-right-back-1024.jpg)
+![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-right-back.jpg)
 {% endfigure %}
 
 1. [200mm GPU fan](https://www.amazon.com/dp/B000V6FKGM/){:rel="nofollow" data-amazon-asin="[de][uk][us][es][it][fr][ca]B000V6FKGM"}
@@ -69,7 +69,7 @@ I recently upgraded to a new eGPU setup which is faster than the one I describe 
 9. Power to the GPU via the ATX PSU
 
 {% figure caption:"Top" %}
-![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-top-1024.jpg)
+![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-top.jpg)
 {% endfigure %}
 
 1. [GPU](https://www.amazon.com/dp/B00H707RP2/){:rel="nofollow" data-amazon-asin="[de][uk][us][es][it][fr][ca]B00H707RP2"}
@@ -80,7 +80,7 @@ I recently upgraded to a new eGPU setup which is faster than the one I describe 
 6. Power to the [Sonnet Echo Express SE II](https://www.amazon.com/dp/B00FMJPWFW/){:rel="nofollow" data-amazon-asin="[de][uk][us][es][it][fr][ca]B00FMJPWFW"} and a [picoPSU-80](https://www.amazon.com/dp/B005TWE5E6/){:rel="nofollow" data-amazon-asin="[de]B0071IHQBK[us]B005TWE5E6"} that powers the laptop fan and supplies power to the SATA / USB add in card and hard disk.
 
 {% figure caption:"Front" %}
-![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-front-1024.jpg)
+![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-front.jpg)
 {% endfigure %}
 
 1. [Sonnet Echo Express SE II](https://www.amazon.com/dp/B00FMJPWFW/){:rel="nofollow" data-amazon-asin="[de][uk][us][es][it][fr][ca]B00FMJPWFW"}
@@ -93,7 +93,7 @@ I recently upgraded to a new eGPU setup which is faster than the one I describe 
 8. [200mm GPU fan](https://www.amazon.com/dp/B000V6FKGM/){:rel="nofollow" data-amazon-asin="[de][uk][us][es][it][fr][ca]B000V6FKGM"}
 
 {% figure caption:"Left side" %}
-![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-left-1024.jpg)
+![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-left.jpg)
 {% endfigure %}
 
 1. [picoPSU-80](https://www.amazon.com/dp/B005TWE5E6/){:rel="nofollow" data-amazon-asin="[de]B0071IHQBK[us]B005TWE5E6"}
@@ -102,7 +102,7 @@ I recently upgraded to a new eGPU setup which is faster than the one I describe 
 4. [200mm laptop fan](https://www.amazon.com/dp/B000V6FKGM/){:rel="nofollow" data-amazon-asin="[de][uk][us][es][it][fr][ca]B000V6FKGM"}
 
 {% figure caption:"Back" %}
-![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-back-1024.jpg)
+![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-back.jpg)
 {% endfigure %}
 
 No description, everything has been described in the previous pictures.
@@ -110,21 +110,21 @@ No description, everything has been described in the previous pictures.
 I will not go into detail how I modified the PCI-E riser, but you can do the same following this [post](https://www.techinferno.com/index.php?/forums/topic/2594-mac-mini-gtx660-echo-express-w7-black-screen/). It basically cuts the 3 and 12 volt powerlines from the PCI-E slot and gets power directly from the PSU. It is only needed if you want to get the internal screen (Optimus) working under Windows 7. Windows 8 is plug and play, but only working to my knowledge on an external monitor.
 
 {% figure caption:"The modified PCI-E riser cable is visible in the middle of the picture" %}
-![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-pci-riser-1024.jpg)
+![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-pci-riser.jpg)
 {% endfigure %}
 
 #### The 2,5mm DC barrel plug
 I used a few of these to route the power from the Sonnet PSU to a picoPSU-80 which powers the fan under the laptop and supplies extra power to the SATA / USB add in card. I could have used the ATX PSU to power the whole thing, but since I plan to remotely power on and off the GPU only using a Belkin WeMo, then it was easier just to have separate PSU's
 
 {% figure caption:"The power from the power brick is split between the Sonnet Echo Express SE II and the picoPSU-80 12V" %}
-![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-barrel-plug-1024.jpg)
+![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-barrel-plug.jpg)
 {% endfigure %}
 
 #### The remote control
 From my previous posts it is written that you need to power cycle the GPU when rebooting the laptop. With the 10 meter cable that can be a pain to time it correctly. The solution is simple, a small remote control to control the wall socket I use for the ATX PSU which powers the GPU.
 
 {% figure caption:"Simple way to power cycle the GPU remotely" %}
-![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-remote-1024.jpg)
+![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-remote.jpg)
 {% endfigure %}
 
 ### Software
@@ -186,33 +186,33 @@ After a major crash windows crash I could not the setup working again using the 
 Boot without a HDMI / DVI cable connected to the GPU and no external monitor connected using the thunderbolt docking station
 
 {% figure caption:"The laptop is getting cooled by the 200mm fan" %}
-![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-laptop-1024.jpg)
+![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-laptop.jpg)
 {% endfigure %}
 
 {% figure caption:"The setup hooked up to my work laptop in the living room" %}
-![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-corning-cable-1024.jpg)
+![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-corning-cable.jpg)
 {% endfigure %}
 
 **Internal screen accelerated with external monitor connected through thunderbolt**  
 Boot without a HDMI / DVI cable connected to the GPU and external monitor connected using the thunderbolt docking station. Now we have two displays, the internal one and external one, both accelerated.
 
 {% figure caption:"Lenovo T430s connected to the eGPU setup using the short cable…" %}
-![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-T430s-1024.jpg)
+![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-T430s.jpg)
 {% endfigure %}
 
 {% figure caption:"… and the long thunderbolt cable is connected to the eGPU setup and the CalDigit thunderbolt dock…" %}
-![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-dock-1024.jpg)
+![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-dock.jpg)
 {% endfigure %}
 
 {% figure caption:"… enabling a fully silent setup in the living room, fully controllable using a mouse and keyboard connected to the CalDigit thunderbolt dock!" %}
-![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-monitor-1024.jpg)
+![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-monitor.jpg)
 {% endfigure %}
 
 **External monitor accelerated**
 Boot with HDMI / DVI cable connected to the eGPU. This gives the fastest performance, but the drawback on a Macbook Pro is that the internal GPU gets turned off so no internal monitor
 
 {% figure caption:"eGPU setup connected to an external monitor" %}
-![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-laptop-monitor-1024.jpg)
+![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-laptop-monitor.jpg)
 {% endfigure %}
 
 One could use a long HDMI cable in conjunction with the 10m thunderbolt cable connected to the CalDigit thunderbolt dock to move the screen further away, but I prefer to use the previous example to only have a single cable even though I get a performance hit since the display signal takes some bandwidth from the thunderbolt cable. See the next section about performance

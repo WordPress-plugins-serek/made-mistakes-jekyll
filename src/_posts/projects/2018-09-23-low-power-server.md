@@ -55,13 +55,13 @@ The PicoPSU with a low wattage power brick does the trick at maintaining a good 
 The the 140mm and 150mm fans does a very good job at keeping the whole setup cool. The case fan at the bottom draws air inside the case and directs it directly at the hard disks which have added heatsinks.
 
 {% figure caption:"3.5 inch SATA adapter capable of mounting 4 M.2 hard disks." %}
-![](/assets/images/low-power-server-hard-disks-1024.jpg)
+![](/assets/images/low-power-server-hard-disks.jpg)
 {% endfigure %}
 
 The massive CPU cooler takes up half the space in the small case and does a good job at keeping the CPU cool. The hard disks stays at around 33 degrees Celsius when idle and the CPU at 30 degrees.
 
 {% figure caption:"Massive cooler that barely fits - and only because I use an external power supply.A low profile cooler and a regular ATX power supply could have worked here instead, but I went for a more silent build." %}
-![](/assets/images/low-power-server-cooler-1024.jpg)
+![](/assets/images/low-power-server-cooler.jpg)
 {% endfigure %}
 
 It should be possible to disconnect one of the fans, maybe even both, for an even lower idle power consumption, but I prefer to have some additional cooling.
@@ -80,7 +80,7 @@ The case is quite small, but not near as small as the Intel NUC systems. It is h
 The case is a very tight fit with room for 2 additional PCIe slots since the third is taken up with the hard disk adapter.
 
 {% figure caption:"PCI mounting bracket for hard disks. The M.2 hard disks are mounted upside down to get the full cooling from the bottom fan." %}
-![](/assets/images/low-power-server-pcie-1024.jpg)
+![](/assets/images/low-power-server-pcie.jpg)
 {% endfigure %}
 
 The adapter is strictly not needed since I could mount it on the case front or side panel with some double-sided tape / glue. I could have gotten away with a smaller CPU cooler to free up some internal space, but prefer better cooling.

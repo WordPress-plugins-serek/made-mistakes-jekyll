@@ -20,13 +20,13 @@ Depending on the model and keys, it can fit up to 12 keys by changing the screws
 You don't have to modify the keys, but I did so to have a better fit with my access token. The result is a compact solution that fits perfectly in my pockets
 
 {% figure caption:"KeyZ with 2 keys and an access token" %}
-![](/assets/images/keyz-keyholder-2-keys-unmodified-1024.jpg)
+![](/assets/images/keyz-keyholder-2-keys-unmodified.jpg)
 {% endfigure %}
 
 Later I decided to reduce the size even further by removing some excess metal from the keys using a hacksaw.
 
 {% figure caption:"Excess metal removed using a hacksaw" %}
-![](/assets/images/keyz-keyholder-2-keys-modified-1024.jpg)
+![](/assets/images/keyz-keyholder-2-keys-modified.jpg)
 {% endfigure %}
 
 You can do this much cheaper modifying a multitool, but this is an easy way to get starting without modifying your keys. The model I got is the basic KeyZ for 35 USD which can be purchased [here](https://www.kickstarter.com/projects/key-z/keyz-bulky-keys-made-easy)

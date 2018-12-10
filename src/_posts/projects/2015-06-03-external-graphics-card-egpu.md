@@ -64,7 +64,7 @@ Attach another NVIDIA GPU externally to the PCIe bus and we can take advantage o
 Now the eGPU is sending the data to be displayed through the Thunderbolt connection to the iGPU which in turn sends it to the LCD display. This is known as an internal / Optimus eGPU setup.
 
 {% figure caption:"The external graphics card does not even need to be close to the laptop!" %}
-![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-corning-cable-1024.jpg)
+![](/assets/images/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l-corning-cable.jpg)
 {% endfigure %}
 
 Using an external monitor is the easiest to configure and setup. It has less requirements than using the internal laptop monitor. Accelerating the internal laptop screen using an eGPU setup requires integrated graphics from Intel that is Optimus[^optimus] compatible, NVIDIA graphics card and Windows. If running OS X then only the external monitor solution is supported.

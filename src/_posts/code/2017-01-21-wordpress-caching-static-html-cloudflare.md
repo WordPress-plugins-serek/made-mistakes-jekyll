@@ -21,7 +21,7 @@ I already use CloudFlare as a CDN (content delivery network) to cache my static 
 Disable your existing CDN if you have one and setup CloudFlare CDN as described in my post [here](/code/http2-server-push-nginx-cloudflare-wordpress/). I am using the free tier which limits us to 3 Page Rules to allow us to play with static HTML caching. First we setup a Page Rule to prevent caching of the admin pages of WordPress. Secondly we create a rule to prevent caching of preview pages. Lastly we create a rules to cache everything else. Replace `odd-one-out.serek.eu` with your own domain.
 
 {% figure caption:"Using CloudFlares free tier, we leverage the 3 Page Rules to enable static HTML caching of WordPress pages, except admin and preview pages" %}
-![](/assets/images/wordpress-caching-static-html-cloudflare-feature-1024.png)
+![](/assets/images/wordpress-caching-static-html-cloudflare-feature.png)
 {% endfigure %}
 
 You can tweak the above Page Rules to your liking, but the most important part in the first two rules are to set `Cache Level` to `Bypass` and the last rule to set `Cache Level` to `Cache Everything`. I also set the `Browser Cache TTL` to the lowest I can and the `Edge Cache TTL` to the highest.

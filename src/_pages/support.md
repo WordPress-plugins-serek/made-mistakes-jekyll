@@ -15,16 +15,16 @@ If you just want to help me on my next project you can donate directly to me bel
   <a href="https://www.paypal.me/Ox3" class="btn" rel="nofollow">
     <svg class="icon icon--paypal" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg>PayPal.me
   </a>
-  <a href="/assets/images/donate/Bitcoin_BTC_343m5YhZ7y78WokLVqHDFC6K2k896sWCNw.png" class="btn" rel="nofollow">(BTC) Bitcoin</a>
-  <a href="/assets/images/donate/Etherum_ETH_0x904d5a40d845ba222bc3728533dc40074c9780dd.png" class="btn" rel="nofollow">(ETH) Etherum</a>
-  <a href="/assets/images/donate/Litecoin_LTC_MCLukFCibdaVuqShxsbqPHoxDPrvxfVYjz.png" class="btn" rel="nofollow">(LTC) Litecoin</a>
+  <a href="/assets/images/Bitcoin_BTC_343m5YhZ7y78WokLVqHDFC6K2k896sWCNw.png" class="btn" rel="nofollow">(BTC) Bitcoin</a>
+  <a href="/assets/images/Etherum_ETH_0x904d5a40d845ba222bc3728533dc40074c9780dd.png" class="btn" rel="nofollow">(ETH) Etherum</a>
+  <a href="/assets/images/Litecoin_LTC_MCLukFCibdaVuqShxsbqPHoxDPrvxfVYjz.png" class="btn" rel="nofollow">(LTC) Litecoin</a>
 </div>
 
-Bitcoin (BTC): [343m5YhZ7y78WokLVqHDFC6K2k896sWCNw](/assets/images/donate/Bitcoin_BTC_343m5YhZ7y78WokLVqHDFC6K2k896sWCNw.png){:target="_blank" rel="nofollow"}
+Bitcoin (BTC): [343m5YhZ7y78WokLVqHDFC6K2k896sWCNw](/assets/images/Bitcoin_BTC_343m5YhZ7y78WokLVqHDFC6K2k896sWCNw.png){:target="_blank" rel="nofollow"}
 
-Etherum (ETH): [0x904d5a40d845ba222bc3728533dc40074c9780dd](/assets/images/donate/Etherum_ETH_0x904d5a40d845ba222bc3728533dc40074c9780dd.png){:target="_blank" rel="nofollow"}
+Etherum (ETH): [0x904d5a40d845ba222bc3728533dc40074c9780dd](/assets/images/Etherum_ETH_0x904d5a40d845ba222bc3728533dc40074c9780dd.png){:target="_blank" rel="nofollow"}
 
-Litecoin (LTC): [343m5YhZ7y78WokLVqHDFC6K2k896sWCNw](/assets/images/donate/Litecoin_LTC_MCLukFCibdaVuqShxsbqPHoxDPrvxfVYjz.png){:target="_blank" rel="nofollow"}
+Litecoin (LTC): [343m5YhZ7y78WokLVqHDFC6K2k896sWCNw](/assets/images/Litecoin_LTC_MCLukFCibdaVuqShxsbqPHoxDPrvxfVYjz.png){:target="_blank" rel="nofollow"}
 
 ## Spread the word
 

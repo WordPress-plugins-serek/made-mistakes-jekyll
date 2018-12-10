@@ -18,7 +18,7 @@ toc: true
 I decided to recreate a smaller version of the eGPU case I made in my [previous](/projects/thunderbolt-2-egpu-built-around-sonnet-echo-express-se-ii-and-pe4l/) setup. I combine an AKiTiO Thunder2 board and my old Sonnet Echo Express SE II to have a graphics card, SSD drive and a pair of USB 3.0 ports. There is room for an additional hard drive and PCI-e slot. The setup is cooled using two 200mm fans, one fan cooling the graphics cards, the other the laptop.
 
 {% figure caption:"My eGPU setup with a 13 inch Retina MacBook Pro attached" %}
-![](/assets/images/egpu-case-built-around-akitio-thunder-2-and-sonnet-echo-express-se-ii-setup-laptop-1024.jpg)
+![](/assets/images/egpu-case-built-around-akitio-thunder-2-and-sonnet-echo-express-se-ii-setup-laptop.jpg)
 {% endfigure %}
 
 {% include affiliate-disclosure.html %}
@@ -43,26 +43,26 @@ To reduce the overall size of the setup I removed the boards from the Sonnet and
 The final case can be seen below. The laptop is a MacBook Pro retina 13 inch. The setup cannot get much smaller without reducing the size of the fans
 
 {% figure caption:"eGPU case" %}
-![](/assets/images/egpu-case-built-around-akitio-thunder-2-and-sonnet-echo-express-se-ii-setup-1024.jpg)
+![](/assets/images/egpu-case-built-around-akitio-thunder-2-and-sonnet-echo-express-se-ii-setup.jpg)
 {% endfigure %}
 
 ### Top
 {% figure caption:"The top is designed to cool the connected laptop" %}
-![](/assets/images/egpu-case-built-around-akitio-thunder-2-and-sonnet-echo-express-se-ii-top-1024.jpg)
+![](/assets/images/egpu-case-built-around-akitio-thunder-2-and-sonnet-echo-express-se-ii-top.jpg)
 {% endfigure %}
 
 The top is designed to hold and cool a laptop using the large [200mm fan](https://www.amazon.com/dp/B000V6FKGM/){:rel="nofollow" data-amazon-asin="[us][ca][uk][de][es][it][fr]B000V6FKGM"}. Several self adhesive rubber pads are placed to protect the laptop from scratches. The thunderbolt cable is used to connect the laptop to the setup.
 
 ### Side - GPU fan
 {% figure caption:"Side – GPU fan" %}
-![](/assets/images/egpu-case-built-around-akitio-thunder-2-and-sonnet-echo-express-se-ii-side-fan-1024.jpg)
+![](/assets/images/egpu-case-built-around-akitio-thunder-2-and-sonnet-echo-express-se-ii-side-fan.jpg)
 {% endfigure %}
 
 A 200mm fan is used to assist cooling the graphics card. Running the fan at low speed the graphics card will almost never use its own fans.
 
 ### Side - AKiTiO
 {% figure caption:"Side – AKiTiO" %}
-![](/assets/images/egpu-case-built-around-akitio-thunder-2-and-sonnet-echo-express-se-ii-side-akitio-1024.jpg)
+![](/assets/images/egpu-case-built-around-akitio-thunder-2-and-sonnet-echo-express-se-ii-side-akitio.jpg)
 {% endfigure %}
 
 1. ATX power supply, mounted using [OpenBeam L brackets](https://www.amazon.com/dp/B0196FHQK6/){:rel="nofollow" data-amazon-asin="[us]B0196FHQK6[ca][uk][de][es][it][fr]"}
@@ -74,7 +74,7 @@ A 200mm fan is used to assist cooling the graphics card. Running the fan at low 
 
 ### Side - Sonnet
 {% figure caption:"Side – Sonnet" %}
-![](/assets/images/egpu-case-built-around-akitio-thunder-2-and-sonnet-echo-express-se-ii-side_sonnet-1024.jpg)
+![](/assets/images/egpu-case-built-around-akitio-thunder-2-and-sonnet-echo-express-se-ii-side_sonnet.jpg)
 {% endfigure %}
 
 1. [200mm fan](https://www.amazon.com/dp/B000V6FKGM/){:rel="nofollow" data-amazon-asin="[us][ca][uk][de][es][it][fr]B000V6FKGM"} for cooling the graphics card
@@ -91,7 +91,7 @@ Nothing much here except the ATX and the SSD disk. A smaller and modular power s
 
 ### Bottom
 {% figure caption:"Bottom" %}
-![](/assets/images/egpu-case-built-around-akitio-thunder-2-and-sonnet-echo-express-se-ii-bottom-1024.jpg)
+![](/assets/images/egpu-case-built-around-akitio-thunder-2-and-sonnet-echo-express-se-ii-bottom.jpg)
 {% endfigure %}
 
 1. SSD disk
