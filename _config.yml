@@ -223,4 +223,4 @@ algolia:
     - index.html
     - index.md
     - _pages/404.md
-    - tag/**/*
+    - tag/**/* #Unneeded and throws erros in the console if these are included since the html tag is empty
