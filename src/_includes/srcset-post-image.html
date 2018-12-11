@@ -5,7 +5,7 @@
 {% assign filename = include.path | slice: 0, size %}
 
 {% if include.gallery != "" %}<a href="{{ include.path }}">{% endif %}<noscript><img src="{{ filename | relative_url }}-320.{{ f.last }}"></noscript>
-<img data-sizes="auto" src="{{ filename | relative_url }}-lq.{{ f.last }}"
+<img data-sizes="auto" data-src="{{ filename | relative_url }}-lq.{{ f.last }}"
 	data-srcset="{{ filename | relative_url }}-lq.{{ f.last }} 20w, {{ filename | relative_url }}-320.{{ f.last }} 320w, {{ filename | relative_url }}-768.{{ f.last }} 768w, {{ filename | relative_url }}-1024.{{ f.last }} 1024w, {{ filename | relative_url }}.{{ f.last }} 1920w"
         alt="{{ include.alt | strip_html }}"
         class="lazyload fade-in">{% if include.gallery != "" %}</a>{% endif %}
