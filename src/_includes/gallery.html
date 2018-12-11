@@ -11,10 +11,10 @@
       <li class="gallery-item">
         {% if img.url %}
           <a {% if img.class %}class="{{ img.class }}"{% endif %} href="{{ url }}" {% if img.title %}title="{{ img.title }}"{% endif %}>
-            TEST{% include srcset-post-image.html path="{{ img.image_path }}" alt="{{ img.alt }}" %}
+            {% include srcset-post-image.html path="{{ img.image_path }}" alt="{{ img.alt }}" %}
           </a>
         {% else %}
-            TEST{% include srcset-post-image.html path="{{ img.image_path }}" alt="{{ img.alt }}" %}
+            {% include srcset-post-image.html path="{{ img.image_path }}" alt="{{ img.alt }}" %}
         {% endif %}
       </li>
     {% endfor %}
