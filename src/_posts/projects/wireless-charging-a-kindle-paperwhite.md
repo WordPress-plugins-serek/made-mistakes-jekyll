@@ -14,6 +14,6 @@ image:
 date: 2019-01-05 11:28:08 +0000
 
 ---
-[https://www.amazon.com/gp/product/B01DLYF0Q0/](https://www.amazon.com/gp/product/B01DLYF0Q0/)
+https://www.amazon.com/gp/product/B01DLYF0Q0/
 
 This trick should also work on phones or similar devices that use a case.
