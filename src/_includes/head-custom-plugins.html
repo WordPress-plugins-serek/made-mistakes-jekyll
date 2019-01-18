@@ -1,17 +1,81 @@
-<!-- Cookie consent -->
-<link rel="preconnect" href="//cdnjs.cloudflare.com" crossorigin>
-<link rel="preload" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js" as="script">
-<link rel="preload" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" as="style">
+<!-- GDPR consent -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/AmauriC/tarteaucitron.js@V1.2/tarteaucitron.js"></script>
 
-<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js" defer></script>
-<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script type="text/javascript">
+<!-- Initial GDPR consent config
+tarteaucitron.init({
+    "privacyUrl": "/terms", /* Privacy policy url */
+
+    "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
+    "cookieName": "tartaucitron", /* Cookie name */
+    
+    "orientation": "bottom", /* Banner position (top - bottom) */
+    "showAlertSmall": true, /* Show the small banner on bottom right */
+    "cookieslist": true, /* Show the cookie list */
+
+    "adblocker": false, /* Show a Warning if an adblocker is detected */
+    "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
+    "highPrivacy": false, /* Disable auto consent */
+    "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
+
+    "removeCredit": true, /* Remove credit link */
+    "moreInfoLink": true, /* Show more info link */
+    "useExternalCss": false, /* If false, the tarteaucitron.css file will be loaded */
+
+    "readmoreLink": "/cookiespolicy" /* Change the default readmore link pointing to opt-out.ferank.eu */
+});
+
+<!-- Custom services -->
+tarteaucitron.services.amazonaffiliate = {
+  "key": "amazonaffiliate",
+  "type": "ads",
+  "name": "Amazon affiliate links",
+  "needConsent": true,
+  "uri": "https://www.amazon.com/gp/help/customer/display.html/ref=help_search_1-1?ie=UTF8&nodeId=201909010&qid=1544617177&sr=1-1",
+  "cookies": [],
+  "readmoreLink": "/custom_read_more", // If you want to change readmore link
+  "js": function () {
+    "use strict";
+    // When user allow cookie
+    localiseLinks();
+  },
+  "fallback": function () {
+    "use strict";
+    // when use deny cookie
+  }
+};
+
+tarteaucitron.services.geolocation = {
+  "key": "geolocation",
+  "type": "api",
+  "name": "Freegeoip.app (country geolocation)",
+  "needConsent": true,
+  "uri": "https://freegeoip.app/",
+  "cookies": ['geo_country_code'],
+  "readmoreLink": "/custom_read_more", // If you want to change readmore link
+  "js": function () {
+    "use strict";
+    // When user allow cookie
+    getGeoLocationData();
+  },
+  "fallback": function () {
+    "use strict";
+    // when use deny cookie
+  }
+};
+
+<!-- Adding services -->
+(tarteaucitron.job = tarteaucitron.job || []).push('amazonaffiliate');
+(tarteaucitron.job = tarteaucitron.job || []).push('geolocation');
+
+</script>
+<!-- END GDPR consent -->
 
 <!-- Geo IP -->
 <!-- GDPR: Disabled -->
 <!--<link rel="preconnect" href="//freegeoip.net" crossorigin>-->
 
 <!-- Theme -->
-<link rel="preload" href="https://fonts.googleapis.com/css?family=Fira+Sans:400,400i,600,600i|Roboto:400,400i,700" as="style">
 <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 <!-- GDPR: Disabled -->
 <!--<link rel="preconnect" href="https://www.gravatar.com" crossorigin>-->
