@@ -1,0 +1,58 @@
+---
+label: Basic post
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: excerpt
+  label: Excerpt
+  type: textarea
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: last_modified_at
+  label: Last modified at
+  type: datetime
+  hidden: false
+  default: ''
+- name: toc
+  label: Toc
+  type: boolean
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: field_group
+  fields:
+  - name: path
+    label: Path
+    type: text
+    hidden: false
+    default: ''
+  - name: feature
+    label: Feature
+    type: text
+    hidden: false
+    default: ''
+  - name: thumbnail
+    label: Thumbnail
+    type: text
+    hidden: false
+    default: ''
+  - name: teaser
+    label: Teaser
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+pages:
+- src/_posts/projects/wireless-charging-a-kindle-paperwhite.md
