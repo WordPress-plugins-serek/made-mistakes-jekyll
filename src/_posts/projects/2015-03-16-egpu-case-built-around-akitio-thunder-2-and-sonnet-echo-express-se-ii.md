@@ -65,7 +65,7 @@ A 200mm fan is used to assist cooling the graphics card. Running the fan at low 
 ![](/assets/images/egpu-case-built-around-akitio-thunder-2-and-sonnet-echo-express-se-ii-side-akitio.jpg)
 {% endfigure %}
 
-1. ATX power supply, mounted using [OpenBeam L brackets](https://www.amazon.com/dp/B0196FHQK6/){:rel="nofollow" data-amazon-asin="[us]B0196FHQK6[ca][uk][de][es][it][fr]"}
+1. ATX power supply, mounted using [OpenBeam L brackets](https://www.amazon.com/dp/B0196FHQK6/){:rel="nofollow" data-amazon-asin="[us]B0196FHQK6[ca][uk][de][es][it][fr]us"}
 2. Thunderbolt cable connecting the [Sonnet Echo Express SE II](https://www.amazon.com/dp/B00FMJPWFW/){:rel="nofollow" data-amazon-asin="[us][ca][uk][de][es][it][fr]B00FMJPWFW"} on the other side of the case
 3. Thunderbolt cable for the laptop
 4. [EVGA GeForce GTX 970](https://www.amazon.com/dp/B00NVODXR4/){:rel="nofollow" data-amazon-asin="[us]B00NVODXR4[ca][uk][de][es][it][fr]B00NSXYEQW"} graphics card
