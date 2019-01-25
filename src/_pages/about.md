@@ -13,7 +13,7 @@ The name "Odd One Out" was derived from and old testcase at work where we looked
 Catch me on twitter or github
 
 ## How to support Odd One Out
-Take a look at my [support](/support) to support me
+Take a look at my [support](/support) page for various ways of supporting me
 
 ## Honorable mentions
 

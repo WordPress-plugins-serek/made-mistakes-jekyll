@@ -32,7 +32,7 @@ Have a website or use social networking sites like Twitter, Facebook, Google+, T
 
 ## Subscribe
 
-The main feed for Odd One Out. 
+The main feed for Odd One Out.
 
 - Atom: [{{ 'atom.xml' | relative_url }}]({{ 'atom.xml' | relative_url }})
 - JSON: [{{ 'feed.json' | relative_url }}]({{ 'feed.json' | relative_url }})
@@ -42,3 +42,62 @@ The main feed for Odd One Out.
 - Projects: [{{ 'projects.xml' | relative_url }}]({{ 'projects.xml' | relative_url }})
 - Code: [{{ 'code.xml' | relative_url }}]({{ 'code.xml' | relative_url }})
 - Reviews: [{{ 'reviews.xml' | relative_url }}]({{ 'reviews.xml' | relative_url }})
+
+## Buy something
+
+If you want to help me and thus this site at no additional cost to you, just use my affiliate links when purchasing anything from the links below. I use these websites / services myself!
+
+### Amazon
+Great place to find almost anything!
+<div markdown="0" class="btn--group">
+  <a href="https://www.amazon.com/?tag=oddoneout0a-20" class="btn" rel="nofollow">
+    <svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg>Amazon.com</a>
+  <a href="https://www.amazon.ca/?tag=oddoneout0f-20" class="btn" rel="nofollow">
+    <svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg>Amazon.ca</a>
+  <a href="https://www.amazon.de/?tag=oddoneout0c-21" class="btn" rel="nofollow">
+      <svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg>Amazon.de</a>
+  <a href="https://www.amazon.es/?tag=oddoneout0e-21" class="btn" rel="nofollow">
+    <svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg>Amazon.es</a>
+</div>
+<div markdown="0" class="btn--group">
+  <a href="https://www.amazon.co.uk/?tag=oddoneout-21" class="btn" rel="nofollow">
+    <svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg>Amazon.co.uk</a>
+  <a href="https://www.amazon.fr/?tag=oddoneout0b-21" class="btn" rel="nofollow">
+    <svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg>Amazon.fr</a>
+  <a href="https://www.amazon.it/?tag=oddoneout01-21" class="btn" rel="nofollow">
+    <svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg>Amazon.it</a>
+  <a href="https://www.amazon.cn/?tag=oddoneout-23" class="btn" rel="nofollow">
+    <svg class="icon icon--amazon" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-amazon' | prepend: 'assets/icons/' | relative_url }}"></use></svg>Amazon.cn</a>
+</div>
+
+### Other stores
+I highly recommend AliExpress for minor gadgets and electronical components
+<div markdown="0" class="btn--group">
+  <a href="http://s.click.aliexpress.com/e/Z3Juz7A" class="btn" rel="nofollow">AliExpress</a>
+  <a href="https://adorama.evyy.net/c/348211/51926/1036?u=https%3A%2F%2Fwww.adorama.com" class="btn" rel="nofollow">Adorama</a>
+</div>
+
+### Hosting
+If you looking for some really great VPS hosting (KVM or OpenVZ) then use my Ramnode affiliate link. The uptime is great (no outages yet), the service is superb and responsive and the pricing is fair. If you are on the lookout for a VPN service, then NordVPN is my preferred choice.
+
+<div markdown="0" class="btn--group">
+  <a href="https://clientarea.ramnode.com/aff.php?aff=3059" class="btn" rel="nofollow">Ramnode</a>
+  <a href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=5167" class="btn" rel="nofollow">NordVPN</a>
+</div>
+
+### Cryptcurrency
+When I want to buy cryptocurrency with other cryptocurrencies I use Binance.com for the low fees. If I cannot find a specific coin on Binance I use Cryptopia. Check out my affiliate links!
+
+<div markdown="0" class="btn--group">
+  <a href="https://www.binance.com/?ref=15066905" class="btn" rel="nofollow">Binance.com (link)</a>
+  <a href="/assets/images/donate/binance.com_referal.png" class="btn" rel="nofollow">Binance.com (QR code)</a>
+  <a href="https://www.cryptopia.co.nz/Register?referrer=psirek" class="btn" rel="nofollow">Cryptopia.co.nz (link)</a>
+</div>
+
+If you don't like to keep your currencies on exchanges (which you shouldn't) then I recommend to use Changelly.com to exchange directly to your wallet.
+
+<div markdown="0" class="btn--group">
+  <a href="https://changelly.com/?ref_id=35f341f36eac" class="btn" rel="nofollow">Changelly.com</a>
+</div>
+
+Lastly I recommend using a hardware wallet for mid to long term storage of funds. I use the [Nano Ledger S](https://www.ledgerwallet.com/r/1d48?path=/products/ledger-nano-s&tracker=MY_TRACKER){:rel="nofollow"} which I consider best value of all the hardware wallets.
