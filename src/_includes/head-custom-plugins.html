@@ -15,7 +15,7 @@ tarteaucitron.init({
 
     "adblocker": false, /* Show a Warning if an adblocker is detected */
     "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
-    "highPrivacy": true, /* Disable auto consent */
+    "highPrivacy": false, /* Disable auto consent */
     "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
 
     "removeCredit": true, /* Remove credit link */
@@ -42,6 +42,7 @@ tarteaucitron.services.amazonaffiliate = {
   "fallback": function () {
     "use strict";
     // when use deny cookie
+    //resetToOriginalLink()
   }
 };
 
