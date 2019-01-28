@@ -34,17 +34,17 @@ The setup consists of
 {% include affiliate-disclosure.html %}
 
 * [Fujitsu D3417-B2 motherboard](http://www.fujitsu.com/global/products/computing/peripheral/mainboards/extended-lifecycle-main/pmod-177972.html)
-* [A single Samsung 16 GB ECC memory module](https://www.amazon.com/dp/B074D641FJ/){:rel="nofollow" data-amazon-asin="[us]B074D641FJ[ca][uk][de][es][it][fr]"}
+* [A single Samsung 16 GB ECC memory module (M391A2K43BB1-CRC)](https://www.amazon.de/dp/B07BG6BMY7/){:rel="nofollow" data-amazon-asin="[uk][de][es][it][fr]B07BG6BMY7[us][ca]"}
 * [Intel Pentium G4600](https://www.amazon.com/dp/B01NADEVZI/){:rel="nofollow" data-amazon-asin="[us][ca][uk][de][es][it][fr]B01NADEVZI"}
 * [Noctua NH-D15S CPU cooler](https://www.amazon.com/dp/B00XUVGLEU/){:rel="nofollow" data-amazon-asin="[us][ca][uk][de][es][it][fr]B00XUVGLEU"} with an included 140mm fan
 * [Noctua NF-A15 PWM 150mm case fan](https://www.amazon.com/dp/B00AED7XFI/){:rel="nofollow" data-amazon-asin="[us][ca][uk][de][es][it][fr]B00AED7XFI"}
 * [Cooltek C2 case](https://www.aliexpress.com/item/Jonsbo-C2-Black-C2BK-HTPC-ITX-Mini-computer-case-in-aluminum-support-3-5-HDD-USB3/32718835069.html){:rel="nofollow"}
 * [PicoPSU 160XT](https://www.amazon.com/dp/B005TWE6B8/){:rel="nofollow" data-amazon-asin="[us][ca][uk][de][es][it][fr]B005TWE6B8"} power supply
-* [60 watt power brick](https://www.amazon.com/dp/B005TWE6B8/){:rel="nofollow" data-amazon-asin="[uk][de][es][it][fr]B001W3UYLY[us][ca]"}
+* [60 watt power brick](https://www.amazon.com/dp/B005TWE6B8/){:rel="nofollow" data-amazon-asin="[us][ca][uk][de][es][it][fr]B001W3UYLY"}
 * 3 M.2 SATA hard disks (single Transcend MTS400 32GB boot disk and two [1 terabyte Crucial MX300](https://www.amazon.com/dp/B01L80DH1Y/){:rel="nofollow" data-amazon-asin="[us][ca]][uk][de][es][it][fr]B01L80DH1Y"}
 * Two [Ekwaterblocks EK-RAM M.2 Nvme Heatsink Kit Black](https://www.amazon.com/dp/B073RHHYCM/){:rel="nofollow" data-amazon-asin="[us][ca]][uk][de][es][it][fr]B073RHHYCM"}
 * [IOCrest 3.5" 2.5" HDD / SSD Mounting Bracket for PCI Slot](https://www.amazon.com/dp/B01LZQGZ95/){:rel="nofollow" data-amazon-asin="[us][ca]][uk][de][es][it][fr]B01LZQGZ95"}
-* [DELOCK Converter 4x SATA 7pin > 4x M.2 NGFF](https://www.amazon.com/dp/B00PIGON4U/){:rel="nofollow" data-amazon-asin="[uk][de][es][it][fr]B00PIGON4U[us][ca]"}
+* [DELOCK Converter 4x SATA 7pin > 4x M.2 NGFF](https://www.amazon.de/dp/B00PIGON4U/){:rel="nofollow" data-amazon-asin="[uk][de][es][it][fr]B00PIGON4U[us][ca]B00J4UYAXK"}
 
 Which resulted in a server which is silent and consumes only 8-9 watts idle with 3 hard disks running Ubuntu 16.04.3 server and hosting 10 LXD containers. The only thing connected to the server is the power brick and an ethernet cable for the network. No mouse, keyboard or monitor since these consume some additional power. Some details of the build:
 
@@ -67,7 +67,7 @@ The massive CPU cooler takes up half the space in the small case and does a good
 It should be possible to disconnect one of the fans, maybe even both, for an even lower idle power consumption, but I prefer to have some additional cooling.
 
 ## Noise
-With two large fans and a massive CPU cooler, the whole setup is dead silent. I need to put my ear right next to the case to hear a hint of noise.
+With two large fans and a massive CPU cooler, the whole setup is dead silent. I need to put my ear right next to the case to hear a hint of noise. I have been running this setup for 3 months without and it is still silent!
 
 ## Size
 {% figure caption:"*Markdown* caption" %}
@@ -84,6 +84,18 @@ The case is a very tight fit with room for 2 additional PCIe slots since the thi
 {% endfigure %}
 
 The adapter is strictly not needed since I could mount it on the case front or side panel with some double-sided tape / glue. I could have gotten away with a smaller CPU cooler to free up some internal space, but prefer better cooling.
+
+I have since replaced the PCI mounting bracket and DELOCK Converter to two [StarTech 3-port M.2 PCI adapter](https://www.amazon.com/dp/B01IR05DLK/){:rel="nofollow" data-amazon-asin="[us][ca][uk][de][es][it][fr]B01IR05DLK"}.
+
+{% figure caption:"Two 3-port M.2 PCI adapters makes for a cleaner and more versatile setup" %}
+![](/assets/images/low-power-server-pci-adapters-inside.jpg)
+{% endfigure %}
+
+Much more compact setup and added benefit of a net gain of two additional PCI M.2 slots. Does add a bit of flashing lights in the rear!
+
+{% figure caption:"Two 3-port M.2 PCI adapters seen from outside the case" %}
+![](/assets/images/low-power-server-pci-adapters.jpg)
+{% endfigure %}
 
 ## Conclusion
 Been running this setup for months with no issues and the average power consumption measured from the wall socket has been 9 watts - not bad!
