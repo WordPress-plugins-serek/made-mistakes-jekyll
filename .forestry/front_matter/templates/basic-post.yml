@@ -54,5 +54,3 @@ fields:
     default: ''
   hidden: false
   default: ''
-pages:
-- src/_posts/projects/wireless-charging-a-kindle-paperwhite.md
