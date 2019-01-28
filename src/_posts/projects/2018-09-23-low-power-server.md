@@ -2,15 +2,15 @@
 title: "Server idling at 9 watt"
 excerpt: "A proper server supporting ECC memory and 3 PCIe slots, without the noise, heat issues and high power consumption. Idling at only 8-9 watt - measured from the power outlet!"
 image:
-  path: &image "/assets/images/template-feature.jpg"
+  path: &image "/assets/images/low-power-server-feature.jpg"
   feature: *image
-  thumbnail: "/assets/images/template-th.jpg"
+  thumbnail: "/assets/images/low-power-server-th.jpg"
   teaser: *image
 tags:
   - Server
 comments: false
 comments_locked: false
-published: false
+published: true
 last_modified_at: 2018-09-23T22:24:00
 toc: true
 ---
@@ -25,8 +25,8 @@ I did own a Kaby lake Intel NUC which was passively cooled, but while the idle p
 
 I ended up with a small micro-atx motherboard with a case not much larger than the board itself.
 
-{% figure caption:"*Markdown* caption" %}
-![](/assets/images/)
+{% figure caption:"The Cooltek C2 case is a small case with plenty of room for a large silent CPU cooler." %}
+![](/assets/images/low-power-server-case.jpg)
 {% endfigure %}
 
 The setup consists of
@@ -70,8 +70,8 @@ It should be possible to disconnect one of the fans, maybe even both, for an eve
 With two large fans and a massive CPU cooler, the whole setup is dead silent. I need to put my ear right next to the case to hear a hint of noise. I have been running this setup for 3 months without and it is still silent!
 
 ## Size
-{% figure caption:"*Markdown* caption" %}
-![](/assets/images/)
+{% figure caption:"The Cooltek C2 case is a small case with plenty of room for a large silent CPU cooler." %}
+![](/assets/images/low-power-server-case.jpg)
 {% endfigure %}
 
 The case is quite small, but not near as small as the Intel NUC systems. It is however small enough to be hidden away in a closet or shelf - in my case in a small wooden beer crate.
