@@ -30,7 +30,7 @@ For just 13 USD for the wireless charging receiver and another 14 USD for the wi
 
 It takes a few tries the first time to place the Kindle correctly on the wireless charging pad since it is not completely center. A tip - use the micro-usb connector as a point to center it.
 
-{% figure caption:"A micro-usb wireless receiver attached to the Kindle Paperwhite. As it is not completely center it takes a few tries the first time changing it." %}
+{% figure caption:"A micro-usb wireless receiver attached to the Kindle Paperwhite. As it is not completely center it takes a few tries the first time charging it." %}
 ![](/assets/images/wireless-charging-kindle-paperwhite-receiver-attached.jpg)
 {% endfigure %}
 
