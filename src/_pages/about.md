@@ -7,7 +7,7 @@ toc: true
 ---
 A dad with no free time, but in those rare instances when the planets align and I need to satisfy my curiosity, I blog my findings here.
 
-The name "Odd One Out" was derived from and old testcase at work where we looked for deviations in production data - the odd data that stod out from the rest. The same can be said about my curiosity - I find something that stands out and geek out!
+The name "Odd One Out" was derived from an old testcase at work where we looked for deviations in production data - the odd data that stod out from the rest. The same can be said about my curiosity - I find something that stands out and geek out!
 
 ## Contact
 Catch me on twitter or github
