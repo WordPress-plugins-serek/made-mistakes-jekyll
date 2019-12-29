@@ -86,12 +86,11 @@ If you looking for some really great VPS hosting (KVM or OpenVZ) then use my Ram
 </div>
 
 ### Cryptcurrency
-When I want to buy cryptocurrency with other cryptocurrencies I use Binance.com for the low fees. If I cannot find a specific coin on Binance I use Cryptopia. Check out my affiliate links!
+When I want to buy cryptocurrency with other cryptocurrencies I use Binance.com for the low fees. Check out my affiliate links!
 
 <div markdown="0" class="btn--group">
   <a href="https://www.binance.com/?ref=15066905" class="btn" rel="nofollow">Binance.com (link)</a>
   <a href="/assets/images/donate/binance.com_referal.png" class="btn" rel="nofollow">Binance.com (QR code)</a>
-  <a href="https://www.cryptopia.co.nz/Register?referrer=psirek" class="btn" rel="nofollow">Cryptopia.co.nz (link)</a>
 </div>
 
 If you don't like to keep your currencies on exchanges (which you shouldn't) then I recommend to use Changelly.com to exchange directly to your wallet.
