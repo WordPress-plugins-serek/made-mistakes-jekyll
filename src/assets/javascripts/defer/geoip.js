@@ -27,7 +27,7 @@ function getGeoLocationData(){
     	if (geo_country_code == "") {
 		var xhr = new XMLHttpRequest();
 		//Setup our own or use http://freegeoip.app/json/ as the url
-		var url = "//freegeoip.app/json/?" + new Date().getTime();
+		var url = "//freegeoip.live/json/?" + new Date().getTime();
 		xhr.open('GET', url, true);
 		xhr.send(null);
 
